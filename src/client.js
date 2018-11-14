@@ -1,1 +1,2 @@
-console.log("hello 3.0")
+let name = 'hello 3.0'
+console.log(name)
